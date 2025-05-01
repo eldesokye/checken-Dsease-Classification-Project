@@ -1,1 +1,1 @@
-# checken-Dsease-Classification-Project
+# checken-Disease-Classification-Project
